@@ -1,0 +1,5 @@
+train: C:\Users\ASUS\Desktop\project\yolov5\dataset\images\train
+val: C:\Users\ASUS\Desktop\project\yolov5\dataset\images\val
+
+nc: 1  # number of classes
+names: ['ambulance']
