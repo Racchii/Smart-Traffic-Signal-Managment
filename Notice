@@ -1,3 +1,8 @@
 Here is the link for 2 custom models i created for vehicle detection .
 1.motorcycle and riskhaw model.- https://mega.nz/file/AmFSEQgb#gdMgH1LTK235e2TpBGWp_fPdq72XY5cI4V4wy6NEFpo
 2.car_truck model - https://mega.nz/file/AmFSEQgb#gdMgH1LTK235e2TpBGWp_fPdq72XY5cI4V4wy6NEFpo
+
+steps.
+1.clone yolov5 repository in your system.
+2. dataset images(train+val ) provided in mega link.
+3. make data.yaml file and give path for train images and val folder according to your system.
